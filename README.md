@@ -77,5 +77,5 @@ Register as Educator → Upload Courses → Track Dashboard Stats → Earn throu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ritik272004/lms.git
+   git clone https://github.com/Harsh-Saini07/lms.git
    cd lms
